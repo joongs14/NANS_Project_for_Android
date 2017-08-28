@@ -1,0 +1,7 @@
+#Tue Aug 29 07:29:36 KST 2017
+base.0=C\:\\Users\\jspark\\Downloads\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_33c876f360c9e89642f91e5068d7092c7e994a7b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jspark\\Downloads\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b06d4fdfee0e9e17c30a458253d6f0f3c39d2e80\\classes.dex
+base.1=C\:\\Users\\jspark\\Downloads\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b06d4fdfee0e9e17c30a458253d6f0f3c39d2e80
+file.0=C\:\\Users\\jspark\\Downloads\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_33c876f360c9e89642f91e5068d7092c7e994a7b\\classes.dex

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="176db571f66283b2650b286ebe49464d2d6ed142">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b06d4fdfee0e9e17c30a458253d6f0f3c39d2e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\a2b413948203b79684eb494d8e0faaabc198b267\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7bc92241344956c77d6d9a51b9bfb92e0db755b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\f9b08ff6a036f2f20b3d6d55106f7d9f5a35e0af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ed4c40812038af7bcfc9ef158724af4e2947ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\6fbdff86d649e5fc523ec6de97c087f16264040f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c1f0f76a89f74f0d52a8b74b19e16ffe49aaead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\77a334e8f1eaeb5d768e97a893014ede30d30aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71a31406c186efd9ab7ea60a4461152c387ff026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\d835d54b61a3e291fef581fd727303deaf0e2873\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_292ea38c073ca4ef3f2581eb357ba27cedb13d2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_dd13816dbe482ba30ee8c1201e680a435e7bd139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_33c876f360c9e89642f91e5068d7092c7e994a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\798c48ae810260abb526256411b0a371dfd770d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb0b85c03fe28ecb13002dc08599e0b4df0a3a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\9fa4dc28c8525984f531008818b3c8beee295c91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fc911082a871425b57a6938b4b3d02edb6c9982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\48129329551f13e300efe449e545fb8078027832\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_011de03aa61a2e514b521230a97e6382bd017df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\ff2a4a948bddc45f2ae0d8d2a9623b3d73486ce6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57f2c79e063599eb3601c4d917d2f281fe6ef2bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\1b532f2010b2ee3e5f9047a047ee53db5faebeac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7b01628628ec8f036b66d9085c1e2ab12941b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jspark\.android\build-cache\675d7a10fdd17b07fc6ac5d3360cd510cf12d1b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jspark\Downloads\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7b86e0ebf0a97b5da7643da784dca3ba080b8e1\classes.dex" />
+    </item>
+
+</items>
